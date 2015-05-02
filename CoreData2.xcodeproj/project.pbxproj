@@ -14,6 +14,7 @@
 		F20B4C031AEF9AEE008945BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F20B4C021AEF9AEE008945BE /* Images.xcassets */; };
 		F20B4C061AEF9AEE008945BE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20B4C041AEF9AEE008945BE /* LaunchScreen.xib */; };
 		F20B4C121AEF9AEE008945BE /* CoreData2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20B4C111AEF9AEE008945BE /* CoreData2Tests.swift */; };
+		F20B4C1C1AEFD93A008945BE /* Bowtie.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20B4C1B1AEFD93A008945BE /* Bowtie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		F20B4C0B1AEF9AEE008945BE /* CoreData2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreData2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F20B4C101AEF9AEE008945BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F20B4C111AEF9AEE008945BE /* CoreData2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData2Tests.swift; sourceTree = "<group>"; };
+		F20B4C1B1AEFD93A008945BE /* Bowtie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bowtie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				F20B4BF81AEF9AEE008945BE /* AppDelegate.swift */,
 				F20B4BFD1AEF9AEE008945BE /* ViewController.swift */,
+				F20B4C1B1AEFD93A008945BE /* Bowtie.swift */,
 				F20B4BFF1AEF9AEE008945BE /* Main.storyboard */,
 				F20B4C021AEF9AEE008945BE /* Images.xcassets */,
 				F20B4C041AEF9AEE008945BE /* LaunchScreen.xib */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F20B4BFE1AEF9AEE008945BE /* ViewController.swift in Sources */,
+				F20B4C1C1AEFD93A008945BE /* Bowtie.swift in Sources */,
 				F20B4BF91AEF9AEE008945BE /* AppDelegate.swift in Sources */,
 				F20B4BFC1AEF9AEE008945BE /* CoreData2.xcdatamodeld in Sources */,
 			);
